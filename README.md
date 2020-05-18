@@ -1,6 +1,11 @@
 A simple project showing the example of how automation can be done using python.
 
+Input file:
+
 ![picture](Screenshots/Ss_input-file.jpg)
+
+Output file:
+
 ![picture](Screenshots/Ss_output-file.jpg)
 
 I have used the openpyxl library in this project.
